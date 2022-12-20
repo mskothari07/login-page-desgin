@@ -1,4 +1,4 @@
 # login-page-desgin
 Basic login page UI 
 Trying out my CSS learnings 
-![App Screenshot](preview/result.jpg)
+![preview](preview/result.jpg)
